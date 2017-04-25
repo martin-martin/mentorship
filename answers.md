@@ -1,8 +1,18 @@
 ## Scenario 1: Dazed and Confused
-Student: I’m feeling very overwhelmed by all of the material in this program. It seems like every time I learn something new, I forget how to do everything else from before that. Right now I can’t even seem to figure out how to submit the first project. It’s not supposed to be this hard, is it? What do I do?
+_Student:_ I’m feeling very overwhelmed by all of the material in this program. It seems like every time I learn something new, I forget how to do everything else from before that. Right now I can’t even seem to figure out how to submit the first project. It’s not supposed to be this hard, is it? What do I do?
+
+---
+
+Hei there! Ah, yes..., I remember how this feels from when I was starting out myself! There's a lot of content out there, and it can easily start to feel overwhelming! But don't get discouraged by that. 
+Remember that you're here as a **learner** - which means that, by definition, you don't know the material yet. Actually learning something is actually a struggle. And research has shown that when you're struggling, you're learning a lot.
 
 ## Scenario 2: Mean Means
-Student: I’m not sure how to do this. The question asks for the mean of the following numbers: 4, 8, 15, 16, 23, 42. How do I get the mean? How is that different from the average?
+_Student:_ I’m not sure how to do this. The question asks for the mean of the following numbers: 4, 8, 15, 16, 23, 42. How do I get the mean? How is that different from the average?
+
+---
+
+Hei! That's actually a great question! Did you try to prop it into google and take a look what the mighty interwebs return to you? What do you think would be the right approach to solving this task? Maybe there's something in the context of the task that can help you figure out what would be the aim of the exercise? Give it a try, do a google search, and let me know whether that clears up your question!
+
 
 ## Scenario 3: Mindset Reset
 You witness the following conversation between two students:
@@ -10,6 +20,10 @@ You witness the following conversation between two students:
 **Student A:** I’m trying to teach my friend how to code, but I’m not sure I know what I’m doing. I’ve never really taught before! I think the most difficult thing so far has been not knowing what to do if I don’t know the answer to a question my friend asks. Should I take my best guess? Should I look it up with her? How do other people who have taught or mentored handled moments like this?
 
 **Student B:** Just my two cents, but if your friend has questions you don’t know the answer to, are you sure you should be mentoring? I guess I’ve never run into that situation when I’ve taught because I’ve been a developer for so long and have worked on so many hard projects.
+
+---
+
+
 
 ## Scenario 4: Travel Tips
 You witness the following conversation between two students:
@@ -19,6 +33,10 @@ You witness the following conversation between two students:
 **Student B:** Queenstown, the capital city, is very much worth a visit! The waterfront area gives you some beautiful views of the ocean, and the food is excellent! The national museum called Te Papa is also there and super interesting. You can learn all kinds of things about New Zealand’s geography, animal and plant life, and history!
 
 **HINT:** What is the capital of New Zealand? Take 2 minutes to research the place is Student B is referring to and then craft your response to best help Student A plan his or her trip.
+
+---
+
+Hei Student A! As Student B mentioned, Queenstown is a great place to go in New Zealand, there are tons of things to do there. However, what I think that she wanted to mention was Auckland (which is the capital of New Zealand).
 
 ## Scenario 5: It's just too much
 Student: This is all so frustrating! I don’t think I can figure any of this out. I’ve gone over and over the videos in this course, but I’m just not getting it. Every time I sit down to work on the project, I just can’t seem to remember what to do next. I guess I’m just not cut out for engineering.
