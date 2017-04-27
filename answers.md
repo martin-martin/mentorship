@@ -55,7 +55,7 @@ Give it a try, do a quick google search, and let me know whether that clears up 
 
 Hei Student A and Student B. First of all I really think it's great of both of you that you're mentoring other people to get a better understanding of what it means to code - it's so important nowadays, and only getting more important! Kudos! 👍
 
-**Teaching is also a great way of learning** - because you're in a social situation and you need to process and formulate the knowledge to make it understandable for someone else. There's a lot of stuff that I figured out I _don't_ know through trying to teach it to someone else 😅
+[**Teaching is also a great way of learning**](http://thepeakperformancecenter.com/educational-learning/learning/principles-of-learning/learning-pyramid/) - because you're in a social situation and you need to process and formulate the knowledge to make it understandable for someone else. There's a lot of stuff that I figured out I _don't_ know through trying to teach it to someone else 😅
 
 There's one thing to come to terms with when breaking into tech - things change so fast that you can _never know **everything**_. But, don't despair! That's actually not a problem. It just makes it more clear that one of the most important things to learn, is _to learn how to learn things_!
 Identifying and acknowledging those white blobs 💭&nbsp; on your mental map is the first step to filling them up - and it's an extremely important one, too!
@@ -161,12 +161,15 @@ And that's what mentors are here for:
 
 I hope this makes it more clear why we don't directly give the answers - in the long-term it's really much more helpful, exciting, and sustainable, to learn how to dig for and uncover those treasures - I mean: _answers_ - by yourself.
 
-**You'll always be welcome to ask questions if you get stuck**, and we'll try to give you a map&nbsp;🗺 &nbsp;, some (hopefully) smart words for the path (something more than _"If it looks like a snake 🐍,&nbsp;, don't step on it!"_ - - - _"Thanks, mom..."_ 🙄 &nbsp;), hand you a bottle of motivation, and then point our fingers into a good direction 👉&nbsp;. And from then on the world is yours to explore! (And we're excited to get a call once in a while and hear how it's going!) : )
+**You'll always be welcome to ask questions if you get stuck**, and we'll try to give you a map&nbsp;🗺 &nbsp;, some (hopefully) smart words for the path (something more than _"If it looks like a snake 🐍&nbsp;, don't step on it!"_ - - _"Thanks, dad..."_ 🙄 &nbsp;), hand you a bottle of motivation, and then point our fingers into a good direction 👉&nbsp;. And from then on the world is yours to explore! (And we're excited to get a call once in a while and hear how it's going!) : )
+
+And another thing: If you get the feeling that **your mentor is not helping you forward** in the ways described above, then please send an email to support@udacity.com.
+There might be a misunderstanding that can be resolved, and we're always trying to improve the mentor support so it'll be the most helpful for our students in the long term!
 
 ## Scenario 7: Margot's Strawberries
 >A student reaches out to you for help on the following problem:
 
->_Margot loves strawberries and wants to buy as many as she can with the $8 she has in her pocket. If a pound of strawberries costs $6 and there are 18 strawberries in a pound, how many strawberries can she buy total? Hint: She can’t buy part of a strawberry :)_
+>_Margot loves strawberries and wants to buy as many as she can with the $8 she has in her pocket. If a pound of strawberries costs $7 and there are 18 strawberries in a pound, how many strawberries can she buy total? Hint: She can’t buy part of a strawberry :)_
 
 >So that you don't have to solve the problem yourself, we've provided you with the math that would be required to find the number of strawberries Margot can buy.
 
@@ -193,25 +196,29 @@ Sure, let's get you started on this : ). A very useful first step when starting 
 
 Imagine fetching the relevant provided information and the looked-for information from the text, and dropping them into two boxes. How would that look like for this exercise?
 
->Student: Okay, so I'd make the "provided" box like this: (money = $8, cost = $6/lb, 1 lb = 18 strawberries) and the "searching" box like this: (how many strawberries can she buy).
+>Student: Okay, so I'd make the "provided" box like this: (money = $8, cost = $7/lb, 1 lb = 18 strawberries) and the "searching" box like this: (how many strawberries can she buy).
 
 Great! Well done! You've already started to put the pieces into mathematical notations! Now which of those can be expressed as a **relationship** (we're working towards a formula!).
 
->Student: The cost and the amounts are in a relationship. Hm... $6/lb that means that's 1 lb, and we know that that are 18 strawberries. So maybe $6 = 18 strawberries. Oh great, we don't even need the pounds here!
+>Student: The cost and the amounts are in a relationship. Hm... the cost is $7/1lb and we also know that there are 18 strawberries in 1lb. So maybe $7 = 18 strawberries. Oh great, we don't even need the pounds here!
 
-Yay, cool! Bring it one step further, what can you do with the $8 information that we have, what do we want to know?
+Yay, cool! That's true, you can get 18 strawberries for $7 - but keep the "cost" variable in there. How could the formula look like when you keep the cost in there and substitute the lb for the amount of strawberries?
 
->Student: We want to know how many strawberries she can buy with that money. So: $8 = ? strawberries?
+>Student: Ah, okay. I think that would be: cost = $7/18 strawberries
 
-Yep, exactly! Now you could exchange the ? with a variable, let's just decide we call "amount of strawberries" = "s".
+Nice, exactly. So that's what we have. What's the "cost" that we are looking for?
 
->Student: Cool, let me re-write the formulas: $6 = 18 and $8 = s
+>Student: We want to know how many strawberries she can buy with the money she has. So: $8 = cost * ? strawberries?
 
-Can you try to get them all into a similar form, then we're on our way to calculating with them. : )
+Yep, exactly! Now you could exchange the ? with a variable, let's just decide we call "amount of strawberries" = "s", and we can skip the $ and keep in mind that our costs are "costs in $".
+
+>Student: Cool, let me re-write the formulas, I'll use "c" for "cost": c = 7/18 and 8 = c * s
+
+Perfect. Now we got them all into a similar form, so we're on our way to calculating with them. : ) Let's do a quick recap: what do we have so far?
 
 ---
 #### Why my response?
-I wanted to help the student take a step back from feeling overwhelmed by introducing a different approach than what he/she had been trying. Only reading over a text example can often feel too anecdotal and it's important to be able to filter out the relevant information and begin to formulate it in abstracted terms. For that I find it useful to drill down from a large overview level into a more detailed abstraction (e.g. first the two bigger boxes, of input and output, then abstracting the parts further etc.).
+I wanted to help the student take a step back from feeling overwhelmed by introducing a different approach than what he/she had been trying. Only reading over a text example can often feel too anecdotal and it's important to be able to filter out the relevant information and begin to formulate it in an abstract way. For that I find it useful to drill down from a large overview level into a more detailed abstraction (e.g. first the two bigger boxes, of input and output, then abstracting the parts further etc.).
 
 ### Part 2:
 >Student: Okay, so I’ve written down s = # strawberries, c = cost per strawberry in dollars, c = 7/18, and 8 = c * s. But now what?
@@ -223,7 +230,7 @@ Which of the symbols do you see is repeating?
 
 >Student: That'd be the c, which comes up twice.
 
-Exactly! So if a c is always a c, what can you do here?
+Exactly! So if a c is always a c, what could you do here?
 
 >Student: I could maybe substitute one for the other, so for my formula I'd end up with something like this: 8 = 7/18 * s
 
@@ -233,7 +240,27 @@ Well done!
 
 Cool, good job! Exactly. Let me know how it goes. : )
 
+#### Why my responses?
+I'm trying to pose open-ended questions that help the student figure out how to proceed alone. The student is smart and figures out things easily, so that's nice for me and makes it easier ; )
+
 ### Part 3:
 >Student: I have s = 144/7. Is that it?
 
 >_Mentor prompt #3: How would you guide the student through the end of the interaction? Write your response to their latest message and/or a script of how you think the conversation would continue, and then tell us why you responded this way._
+
+Alright, perfect! Well done solving for s. Looks alright to me... but wait: I wonder whether the vendor would know how much Margot wants if she asks for 144/7 🍓&nbsp;...?
+The next step now is to bring the solution back to the original problem. How do you think this could look like?
+
+>Student: Ah, haha - yeah that'd be kind of confusing, lol! Okay, so the task was to find out how many whole strawberries can she buy. So 7 fits in 144 20 times, with 4/7 leftover. That means she can buy 20 strawberries in total!
+
+Yay, great job! Congrats on solving the task! 👍
+
+>Student: Thanks for your help, this wasn't so difficult after all! : )
+
+Yeah, it really isn't. It's just important to remember to go step-by-step. Get out the information that you need and then break it down and generalize. What is what and what's the same? These text examples are a good way to practice generalization and abstraction, and as you can see it's really no magic. Just go step-by-step and you'll be fine : )
+
+All the best for working forward, and let me know if there is anything I can help with!
+
+#### Why my response?
+When embarking on a journey to solve a problem, it's important to keep the initial task in mind - it's easy to get carried away and lose sight of what was the original reason to work on the task, or forget about the question that should be answered.
+That's why it's important to remind the student to think back to the initial question. Secondly I think it's also important to wrap up and review the imporatn steps taken, to make the talk a graspable learning experience for the student.
