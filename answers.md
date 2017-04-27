@@ -1,3 +1,6 @@
+# Udacity Mentorship Training
+Answering to the practice questions 1 through 7. Getting into it. : )
+
 ## Scenario 1: Dazed and Confused
 >_Student:_ I’m feeling very overwhelmed by all of the material in this program. It seems like every time I learn something new, I forget how to do everything else from before that. Right now I can’t even seem to figure out how to submit the first project. It’s not supposed to be this hard, is it? What do I do?
 
@@ -10,17 +13,14 @@ Why? - that's because you're here as a **learner**. You don't know the material 
 
 So maybe... 🤔&nbsp; what you feel as exhaustion is just the compounded muscle-sore of all those little mind workers creating new connections here and there and everywhere! 💪
 
-##### Okay, but how to keep things rolling?
+### Okay, but how to keep things rolling?
 1. **Don't give up!** And keep having **fun** while learning. These are the most important things.
 2. **Reach out** to the Udacity community - both to **other students**, e.g. in the slack channels, as well as to **Udacity Mentors** on the Forums and in 1:1s. We're all a bunch of excited learners that know what this is like and who like to help if we can : )
 3. Try to **generalize the topic** you're trying to learn. Cut it down to its essentials. Make the _most simple example you can think of_ that does a similar thing. That's an immensely great practice that helps in many aspects when coding and will just keep being helpful later on.
 4. **Own the project** you're working on. : ) **Make it yours!** - - E.g. let's say your task is to build a website using HTML and CSS? -> Build that one website for your friend that he/she has always been dreaming of. Or build one for yourself! And don't worry if it isn't perfect - _it won't be_. But, again, we're here to _learn_, and seeing the _reason_ for learning something very clearly helps to put some extra 🔥 &nbsp; in your drive! And that just works so much better when applying the projcet to a personal idea. Plus you'll have something to show and look at. : )
 
-Whoops, that turned out to be a loooong response! 😅
-Hope that there's something useful for you in there.
-
-##### Too long; didn't read
-Basically just keep in mind:
+### Summed up in bullet-points
+Keep in mind that:
 
 - once in a while **you'll struggle while learning - and that's a good thing** because it means you're _learning_
 - **don't give up, and keep having fun**. find ways to personalize your learning to supercharge your fun and retention
@@ -59,7 +59,7 @@ Hei Student A and Student B. First of all I really think it's great of both of y
 There's one thing to come to terms with when breaking into tech - things change so fast that you can _never know **everything**_. But, don't despair! That's actually not a problem. It just makes it more clear that one of the most important things to learn, is _to learn how to learn things_!
 Identifying and acknowledging those white blobs 💭&nbsp; on your mental map is the first step to filling them up - and it's an extremely important one, too!
 
-#### So here are my thoughts on teaching
+### So here are my thoughts on teaching
 >**You don't have to be a professional (XYZ) to "teach" - as long as you're a motivated and resourceful problem solver**. The most important skill to teach to someone, is to help them become self-sufficient in their own learning process.
 
 So don't worry, Student A, if you don't have answers to the questions your friend asks. Just let her know that you don't know - and then go and look it up together. That way you'll turn the situation into a superpower-multi-faceted-lesson for both of you:
@@ -90,7 +90,7 @@ It hosts a lot of cultural activities, for example the interesting [Te Papa Muse
 But also **Queenstown** is a great place to go to in New Zealand. And I think that you should really check it out, because there are tons of [outdoorsy things to do](https://en.wikipedia.org/wiki/Queenstown,_New_Zealand#Tourism) there - just watch the background-video on their [official page](https://www.queenstownnz.co.nz/)! Nice 🏔 , ey?.
 
 Ok, So here's my:
-#### Two-week-trip-tip
+### Two-week-trip-tip
 
 New Zealand is a great place both for interesting cultural experiences as well as nature stuff like hiking (and extreme sports, if you're into that!).
 
@@ -114,18 +114,18 @@ Whoops! Take care, you nearly dropped your motivation there!
 
 You know, the truth is that no one is really cut out for engineering (or anything else, for that matter). It's all a big learning process, and if you want to become an engineer, you totally can! : D
 
-It'll take some time and it'll take some effort - but learning anything new does! Sometimes it may feel a little frustrating, but keep in mind that there's a community here that is happy to support you and help you on the way. It also helps me to remember that struggling really means that my brain is setting up new pathways - the process of working on gradually understanding something more is a great workout for the brain. I bet there's been a lot happening in your mind while you tried to wrap your head around this new content.
+It'll take some time and it'll take some effort - but learning anything new does! Sometimes it may feel a little frustrating, but keep in mind that there's a community here that is happy to support you and help you on the way. For myself, it also helps me to remember that when I struggle it really just means that my brain is setting up new pathways - the process of working on gradually understanding something better is a great workout for the brain. So I'm sure there's been a lot happening in your mind while you tried to wrap your head around this new content.
 
 As for actually doing a project, what usually helps me a lot is to **clearly write out the steps I think are necessary** before starting to work on it. This puts my brain into the right mode and I'll easily see which steps I somewhat understand and where I'm still lacking something. Then I can go and research more on those points: Look up _specifically_ the related course videos, check in other places online, search the Forums for other students who had the same questions, or maybe even ask a question if it hasn't been talked about yet.
 Once I think that I have a generally idea of what to do for the project, and think that I somewhat understand what each of the steps entails - _then_ I start to work on it.
 
 Often I still get stuck and realize that something didn't quite go the way I originally thought it would - but having the rough plan is a great guideline that helps to tag along and avoid getting lost. If you're more dilligent than me, you can even cast it into a neat time plan, broken up by the different steps, and I know people who swear that this works even better! Personally I still need to learn something there about time management 😅&nbsp;, but it's on my radar! So:
 
-#### To avoid feeling overwhelmed
-1. Set your aim (e.g. "Finish Project 3")
+### To avoid feeling overwhelmed
+1. Set your aim clearly (e.g. "Finish Project 3")
 2. Make a rough outline of the work that needs to be done
-3. Break it down in small and achievable steps
-4. Set a timeline for each of them
+3. Break it down into small and achievable steps
+4. Set a timeline for each of the pieces
 5. And then follow along your outline! : )
 
 Like that, if you ever get stuck on the way, it'll also be much easier to look up specific questions that relate to the part that you're currently working on.
