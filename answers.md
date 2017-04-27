@@ -8,8 +8,9 @@ Answering to the practice questions 1 through 7. Getting into it. : )
 Hei StudentName! - - Ah, yes..., I remember how this feels from when I was starting out myself - and honestly I still sometimes feel it when I dive into a new topic! There's a lot of content in each program - and then even more out there in the wide world... world wide... wow! 😮&nbsp;🎆
 
 Starting out with something new can easily feel overwhelming! But don't get discouraged by that!
-Because, in a way, yes! - it's _supposed to be hard_.
-Why? - that's because you're here as a **learner**. You don't know the material yet, you're **learning new stuff**. And really _really_ learning something is actually somewhat of a struggle for your brain. There's a ton of work to do: your brain has to create new connections and constantly strengthen useful ones. That's a lot of work - and research has shown that when you're struggling (and stick with it), you're actually learning a lot.
+Because, in a way, yes! - it's _supposed to be a bit hard_.
+Why? - that's because you're here as a **learner**. You don't know the material yet, you're **learning new stuff**. And really _really_ learning something means work for your brain. There's a ton to do: your brain has to create new connections and constantly strengthen useful ones. That's a lot of work - and research has shown that when you're putting in the exercise (and stick with it), you're actually learning a lot.
+Sometimes that might feel a bit overwhelming, but it helps to look at it as a **challenge**. When you can feel your brain is exercising, this also means that you're making it stronger.
 
 So maybe... 🤔&nbsp; what you feel as exhaustion is just the compounded muscle-sore of all those little mind workers creating new connections here and there and everywhere! 💪
 
@@ -22,7 +23,7 @@ So maybe... 🤔&nbsp; what you feel as exhaustion is just the compounded muscle
 ### Summed up in bullet-points
 Keep in mind that:
 
-- once in a while **you'll struggle while learning - and that's a good thing** because it means you're _learning_
+- once in a while it'll **feel like a lot while learning something new**. Take this feeling as a **proof that you're exercising** your brain. It's a good thing, because it means you're _learning_
 - **don't give up, and keep having fun**. find ways to personalize your learning to supercharge your fun and retention
 - **reach out to other learners and coaches** in the Udacity community. there are a lot of us out there, and it's nice and useful to learn together
 
@@ -100,7 +101,7 @@ I'd **split the two weeks also geographically and thematically**, spend the firs
 
 2. The **South Island** obviously also has tons of culture, but there's so much beautiful nature there that it's easy to shift your focus. I'd personally recommend to check out the Marlborough Sounds, maybe take a drive across some high road in the center of the island, and make your way down to Milford Sound, which has great hiking trails and just a general wow to it. If you're into adventure sports, you could also stop over in Queenstown and maybe attach your feet to an elastic rope before plunging off a ledge (with a great view).
 
-Oh dear... I'd have more to say (you can DM me if you want a day-by-day trip-tip, lol!), but you should probably look it up by yourself in order to find the things that you're really interested in! There is so much information about New Zealand on the web, people love to travel there, and rightfully so!
+Ok, I'd have more to say (you can DM me if you want a day-by-day trip-tip, lol! 😅&nbsp;), but you should probably look it up by yourself in order to find the things that you're really interested in! There is so much information about New Zealand on the web, people love to travel there, and rightfully so!
 Check out some of those, and you can always ping me back if you have a specific question!
 
 I wish you a great trip, take your time and enjoy!
@@ -110,16 +111,22 @@ I wish you a great trip, take your time and enjoy!
 >Student: This is all so frustrating! I don’t think I can figure any of this out. I’ve gone over and over the videos in this course, but I’m just not getting it. Every time I sit down to work on the project, I just can’t seem to remember what to do next. I guess I’m just not cut out for engineering.
 
 Hei StudentName!
-Whoops! Take care, you nearly dropped your motivation there!
 
-You know, the truth is that no one is really cut out for engineering (or anything else, for that matter). It's all a big learning process, and if you want to become an engineer, you totally can! : D
+You know, I think that no one is really cut out for engineering (or anything else, for that matter). It's all a big learning process, and if you want to become an engineer, you totally can! : D
 
-It'll take some time and it'll take some effort - but learning anything new does! Sometimes it may feel a little frustrating, but keep in mind that there's a community here that is happy to support you and help you on the way. For myself, it also helps me to remember that when I struggle it really just means that my brain is setting up new pathways - the process of working on gradually understanding something better is a great workout for the brain. So I'm sure there's been a lot happening in your mind while you tried to wrap your head around this new content.
+It'll take some time and it'll take some effort - but learning anything new does! Sometimes it will probably feel a little frustrating, but keep in mind that there's a community here that is happy to support you and help you on the way.
+Thinking of myself, it also helps me to remember that when I feel that mental exhaustion, it really just means that my brain is setting up new pathways - the process of working on gradually understanding something better is quite a workout for the brain. So I'm sure there's been a lot happening in your mind while you tried to wrap your head around this new content.
 
-As for actually doing a project, what usually helps me a lot is to **clearly write out the steps I think are necessary** before starting to work on it. This puts my brain into the right mode and I'll easily see which steps I somewhat understand and where I'm still lacking something. Then I can go and research more on those points: Look up _specifically_ the related course videos, check in other places online, search the Forums for other students who had the same questions, or maybe even ask a question if it hasn't been talked about yet.
+As for actually doing a project, what usually helps me a lot is to **clearly write out the steps I think are necessary** _before_ starting to work on it. This puts my brain into the right mode and I'll easily see which steps I somewhat understand and where I'm still lacking some pieces.
+Then I can go and research more on those points:
+- I can look up _specifically_ the related course videos,
+- check in other places online,
+- search the Forums for other students who had the same questions,
+- or maybe even ask a question if it hasn't been talked about yet.
+
 Once I think that I have a generally idea of what to do for the project, and think that I somewhat understand what each of the steps entails - _then_ I start to work on it.
 
-Often I still get stuck and realize that something didn't quite go the way I originally thought it would - but having the rough plan is a great guideline that helps to tag along and avoid getting lost. If you're more dilligent than me, you can even cast it into a neat time plan, broken up by the different steps, and I know people who swear that this works even better! Personally I still need to learn something there about time management 😅&nbsp;, but it's on my radar! So:
+And of course then I often still get stuck, and realize that something didn't quite go the way I originally thought it would - but having the rough plan is a great guideline that helps to tag along and avoid getting lost. If you're more dilligent than me, you can even cast your plan-pieces it into a neat time plan, broken up by the different steps. I know people who swear that this is very helpful in getting things done! Personally I still need to learn something there about time management 😅&nbsp;, but it's on my radar! So:
 
 ### To avoid feeling overwhelmed
 1. Set your aim clearly (e.g. "Finish Project 3")
@@ -140,13 +147,13 @@ Hei StudentName!
 When someone in the community gives you a tip, or a link, rather than presents the solution, we're actually **trying to help out in the most efficient way!**
 When you don't (yet) know how to do something, that's when your brain is working the hardest. And that brain work is essential for learning - it's like training your muscles: they only grow when you regularly exercise and push yourself a little.
 
-So, even though it would sometimes feel nice to just have the answer served so it can get you moving forward _in that moment_, in the _long term_ this doesn't help much.
+So, even though it would sometimes feel nice to just have the answer served, so it can get you moving forward _in that moment_, in the _long term_ this doesn't help much.
 
-Here at Udacity our foremost goal is to help our students to become **self-sufficient learners**! We want you to feel confident to venture out there and tackle new challenges by yourself. For that it's essential to learn how to approach a question to figure out the solution by yourself. That's also what will make you _actually remember_ how stuff works, and allow you to apply that learning in new situations.
+At Udacity our foremost goal is to help our students to become **self-sufficient learners**! We want you to feel confident to venture out there and tackle new challenges by yourself. For that it's essential to learn how to approach a question to figure out the solution by yourself. That's also what will make you _actually remember_ how stuff works, and allow you to apply that learning in new situations.
 Because learning to become successful is not about knowing all the answers, but about being resourceful and confident in **knowing how to get there**.
 
 And that's what mentors are here for:
-- To try to ask the right questions back,
+- To try to ask the right questions back to you,
 - try to point you into the right direction,
 - speak the right hint at the right time,
 - and send you off into the world wild web, equipped with a solid link and a curious mindset, so you can venture, explore, and learn by yourself
@@ -154,7 +161,7 @@ And that's what mentors are here for:
 
 I hope this makes it more clear why we don't directly give the answers - in the long-term it's really much more helpful, exciting, and sustainable, to learn how to dig for and uncover those treasures - I mean: _answers_ - by yourself.
 
-**You'll always be welcome to ask questions if you get stuck**, and we'll try to give you a map&nbsp;🗺 &nbsp;, some (hopefully) smart words for the path (e.g.: _"If it looks like a snake 🐍,&nbsp;, don't step on it!"_ - - - _"Thanks, mom..."_ 🙄 &nbsp;), hand you a bottle of motivation, and then point into a good direction 👉&nbsp;. And then the world is yours to explore! (And we're excited to get a call once in a while and hear how it's going!) : )
+**You'll always be welcome to ask questions if you get stuck**, and we'll try to give you a map&nbsp;🗺 &nbsp;, some (hopefully) smart words for the path (something more than _"If it looks like a snake 🐍,&nbsp;, don't step on it!"_ - - - _"Thanks, mom..."_ 🙄 &nbsp;), hand you a bottle of motivation, and then point our fingers into a good direction 👉&nbsp;. And from then on the world is yours to explore! (And we're excited to get a call once in a while and hear how it's going!) : )
 
 ## Scenario 7: Margot's Strawberries
 >A student reaches out to you for help on the following problem:
@@ -179,10 +186,52 @@ s = 144/7 = 20 4/7 = 20.57142857...
 
 >_Mentor prompt #1: How would you help the student get started on this problem? Write your response to their latest message and/or a script of how you think the conversation would continue, and then tell us why you responded this way._
 
+Hei StudentName!
+Sure, let's get you started on this : ). A very useful first step when starting to work on a task like this one is to check for two things:
+- what information do you have and
+- what is the information you're looking for
+
+Imagine fetching the relevant provided information and the looked-for information from the text, and dropping them into two boxes. How would that look like for this exercise?
+
+>Student: Okay, so I'd make the "provided" box like this: (money = $8, cost = $6/lb, 1 lb = 18 strawberries) and the "searching" box like this: (how many strawberries can she buy).
+
+Great! Well done! You've already started to put the pieces into mathematical notations! Now which of those can be expressed as a **relationship** (we're working towards a formula!).
+
+>Student: The cost and the amounts are in a relationship. Hm... $6/lb that means that's 1 lb, and we know that that are 18 strawberries. So maybe $6 = 18 strawberries. Oh great, we don't even need the pounds here!
+
+Yay, cool! Bring it one step further, what can you do with the $8 information that we have, what do we want to know?
+
+>Student: We want to know how many strawberries she can buy with that money. So: $8 = ? strawberries?
+
+Yep, exactly! Now you could exchange the ? with a variable, let's just decide we call "amount of strawberries" = "s".
+
+>Student: Cool, let me re-write the formulas: $6 = 18 and $8 = s
+
+Can you try to get them all into a similar form, then we're on our way to calculating with them. : )
+
+---
+#### Why my response?
+I wanted to help the student take a step back from feeling overwhelmed by introducing a different approach than what he/she had been trying. Only reading over a text example can often feel too anecdotal and it's important to be able to filter out the relevant information and begin to formulate it in abstracted terms. For that I find it useful to drill down from a large overview level into a more detailed abstraction (e.g. first the two bigger boxes, of input and output, then abstracting the parts further etc.).
+
 ### Part 2:
 >Student: Okay, so I’ve written down s = # strawberries, c = cost per strawberry in dollars, c = 7/18, and 8 = c * s. But now what?
 
 >_Mentor prompt #2: How would you guide the student through the next stage of this problem? Write your response to their latest message and/or a script of how you think the conversation would continue, and then tell us why you responded this way._
+
+Great, now when you look at the items that you created, you can see that one of the symbols is repeating. In math this means that they are the same! - Of course for this to be true it's important that we do a good job when making these abstractions (the ones you did here are perfect! 👍&nbsp;)
+Which of the symbols do you see is repeating?
+
+>Student: That'd be the c, which comes up twice.
+
+Exactly! So if a c is always a c, what can you do here?
+
+>Student: I could maybe substitute one for the other, so for my formula I'd end up with something like this: 8 = 7/18 * s
+
+Well done!
+
+>Student: Ah, alright, now I know what to do I'll just have to solve this equation for s.
+
+Cool, good job! Exactly. Let me know how it goes. : )
 
 ### Part 3:
 >Student: I have s = 144/7. Is that it?
