@@ -255,6 +255,8 @@ Well done!
 
 Cool, good job! Exactly. Let me know how it goes. : )
 
+---
+
 #### Why my responses?
 I'm trying to pose open-ended questions that help the student figure out how to proceed alone. The student is smart and figures out things easily, so that's nice for me and makes it easier ; )
 
@@ -276,6 +278,8 @@ Yay, great job! Congrats on solving the task! 👍
 Yeah, it really isn't. It's just important to remember to go step-by-step. Get out the information that you need and then break it down and generalize. What is what and what's the same? These text examples are a good way to practice generalization and abstraction, and as you can see it's really no magic. Just go step-by-step and you'll be fine : )
 
 All the best for working forward, and let me know if there is anything I can help with!
+
+---
 
 #### Why my response?
 When embarking on a journey to solve a problem, it's important to keep the initial task in mind - it's easy to get carried away and lose sight of what was the original reason to work on the task, or forget about the question that should be answered.
