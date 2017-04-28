@@ -9,7 +9,9 @@ Hei StudentName! - - Ah, yes..., I remember how this feels from when I was start
 
 Starting out with something new can easily feel overwhelming! But don't get discouraged by that!
 Because, in a way, yes! - it's _supposed to be a bit hard_.
+
 Why? - that's because you're here as a **learner**. You don't know the material yet, you're **learning new stuff**. And really _really_ learning something means work for your brain. There's a ton to do: your brain has to create new connections and constantly strengthen useful ones. That's a lot of work - and research has shown that when you're putting in the exercise (and stick with it), you're actually learning a lot.
+
 Sometimes that might feel a bit overwhelming, but it helps to look at it as a **challenge**. When you can feel your brain is exercising, this also means that you're making it stronger.
 
 So maybe... 🤔&nbsp; what you feel as exhaustion is just the compounded muscle-sore of all those little mind workers creating new connections here and there and everywhere! 💪
@@ -42,7 +44,9 @@ And: can you also think of another approach to solving this question? Is there m
 Give it a try, do a quick google search, and let me know whether that clears up your question _(if it doesn't you can click below to clear up the hidden hint!)_!
 
 [spoiler]
+
 [Here's what I found](https://www.quora.com/What-is-difference-between-the-mean-and-the-average) using google - and you can also check out [this one](http://www.differencebetween.net/science/difference-between-average-and-mean/) if you want to dive deeper. : )
+
 [/spoiler]
 
 ## Scenario 3: Mindset Reset
@@ -58,6 +62,7 @@ Hei Student A and Student B. First of all I really think it's great of both of y
 [**Teaching is also a great way of learning**](http://thepeakperformancecenter.com/educational-learning/learning/principles-of-learning/learning-pyramid/) - because you're in a social situation and you need to process and formulate the knowledge to make it understandable for someone else. There's a lot of stuff that I figured out I _don't_ know through trying to teach it to someone else 😅
 
 There's one thing to come to terms with when breaking into tech - things change so fast that you can _never know **everything**_. But, don't despair! That's actually not a problem. It just makes it more clear that one of the most important things to learn, is _to learn how to learn things_!
+
 Identifying and acknowledging those white blobs 💭&nbsp; on your mental map is the first step to filling them up - and it's an extremely important one, too!
 
 ### So here are my thoughts on teaching
@@ -85,7 +90,9 @@ Your friend will soon understand that it might be the most valuable skill that a
 
 
 Hei Student A!
+
 I think that the city that Student B wanted to mention was [**Wellington**](https://en.wikipedia.org/wiki/Wellington) (which is - [rightfully confusingly](https://en.wikipedia.org/wiki/Capital_of_New_Zealand) - the capital of New Zealand). It's a beautiful, relatively small city that sits at the waterfront of [_Cook Strait_](https://goo.gl/maps/mytujR566JS2), tucked in between the North and South Island. I was myself lucky enough to spend some time there, and enjoyed the city [heaps](http://www.nz.com/new-zealand/guide-book/language/dictionary.aspx#h). : )
+
 It hosts a lot of cultural activities, for example the interesting [Te Papa Museum](https://www.tepapa.govt.nz/) that Student B mentioned.
 
 But also **Queenstown** is a great place to go to in New Zealand. And I think that you should really check it out, because there are tons of [outdoorsy things to do](https://en.wikipedia.org/wiki/Queenstown,_New_Zealand#Tourism) there - just watch the background-video on their [official page](https://www.queenstownnz.co.nz/)! Nice 🏔 , ey?.
@@ -115,9 +122,11 @@ Hei StudentName!
 You know, I think that no one is really cut out for engineering (or anything else, for that matter). It's all a big learning process, and if you want to become an engineer, you totally can! : D
 
 It'll take some time and it'll take some effort - but learning anything new does! Sometimes it will probably feel a little frustrating, but keep in mind that there's a community here that is happy to support you and help you on the way.
+
 Thinking of myself, it also helps me to remember that when I feel that mental exhaustion, it really just means that my brain is setting up new pathways - the process of working on gradually understanding something better is quite a workout for the brain. So I'm sure there's been a lot happening in your mind while you tried to wrap your head around this new content.
 
 As for actually doing a project, what usually helps me a lot is to **clearly write out the steps I think are necessary** _before_ starting to work on it. This puts my brain into the right mode and I'll easily see which steps I somewhat understand and where I'm still lacking some pieces.
+
 Then I can go and research more on those points:
 - I can look up _specifically_ the related course videos,
 - check in other places online,
@@ -136,6 +145,7 @@ And of course then I often still get stuck, and realize that something didn't qu
 5. And then follow along your outline! : )
 
 Like that, if you ever get stuck on the way, it'll also be much easier to look up specific questions that relate to the part that you're currently working on.
+
 And you'll see that if the steps to achieve your goal are somewhat clear in front of you, it becomes much easier to walk the path, and the task(s) will feel much less overwhelming.
 
 Hope this helps, let me know! : )
@@ -144,12 +154,15 @@ Hope this helps, let me know! : )
 >Student: Every time I ask for help at Udacity, mentors just confuse me and won’t give me the answers I need. If I can’t figure something out, tell me the solution! What is wrong with you people?
 
 Hei StudentName!
+
 When someone in the community gives you a tip, or a link, rather than presents the solution, we're actually **trying to help out in the most efficient way!**
+
 When you don't (yet) know how to do something, that's when your brain is working the hardest. And that brain work is essential for learning - it's like training your muscles: they only grow when you regularly exercise and push yourself a little.
 
 So, even though it would sometimes feel nice to just have the answer served, so it can get you moving forward _in that moment_, in the _long term_ this doesn't help much.
 
 At Udacity our foremost goal is to help our students to become **self-sufficient learners**! We want you to feel confident to venture out there and tackle new challenges by yourself. For that it's essential to learn how to approach a question to figure out the solution by yourself. That's also what will make you _actually remember_ how stuff works, and allow you to apply that learning in new situations.
+
 Because learning to become successful is not about knowing all the answers, but about being resourceful and confident in **knowing how to get there**.
 
 And that's what mentors are here for:
@@ -190,6 +203,7 @@ s = 144/7 = 20 4/7 = 20.57142857...
 >_Mentor prompt #1: How would you help the student get started on this problem? Write your response to their latest message and/or a script of how you think the conversation would continue, and then tell us why you responded this way._
 
 Hei StudentName!
+
 Sure, let's get you started on this : ). A very useful first step when starting to work on a task like this one is to check for two things:
 - what information do you have and
 - what is the information you're looking for
@@ -226,6 +240,7 @@ I wanted to help the student take a step back from feeling overwhelmed by introd
 >_Mentor prompt #2: How would you guide the student through the next stage of this problem? Write your response to their latest message and/or a script of how you think the conversation would continue, and then tell us why you responded this way._
 
 Great, now when you look at the items that you created, you can see that one of the symbols is repeating. In math this means that they are the same! - Of course for this to be true it's important that we do a good job when making these abstractions (the ones you did here are perfect! 👍&nbsp;)
+
 Which of the symbols do you see is repeating?
 
 >Student: That'd be the c, which comes up twice.
@@ -249,6 +264,7 @@ I'm trying to pose open-ended questions that help the student figure out how to 
 >_Mentor prompt #3: How would you guide the student through the end of the interaction? Write your response to their latest message and/or a script of how you think the conversation would continue, and then tell us why you responded this way._
 
 Alright, perfect! Well done solving for s. Looks alright to me... but wait: I wonder whether the vendor would know how much Margot wants if she asks for 144/7 🍓&nbsp;...?
+
 The next step now is to bring the solution back to the original problem. How do you think this could look like?
 
 >Student: Ah, haha - yeah that'd be kind of confusing, lol! Okay, so the task was to find out how many whole strawberries can she buy. So 7 fits in 144 20 times, with 4/7 leftover. That means she can buy 20 strawberries in total!
